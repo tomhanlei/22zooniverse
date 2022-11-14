@@ -13,7 +13,8 @@ Below explains the columns in these csv files.
   - _y1, y2, y3_: 3 positive example videos (in the training materials)
   - _t1, t2, t3, t4, t5, t6_: 6 test videos
 
-  <p></p>
+  <p> </p>
+
   > The name of the column indicates the pair of videos for which the similarity score is calculated. For example, _n1\_y2_ means the similarity between _n1_ and _y2_.
 
 - **ground\_truth.csv**, the groundturth labels for the 6 test videos in each task.
